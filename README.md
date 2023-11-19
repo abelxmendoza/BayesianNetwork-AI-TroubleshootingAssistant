@@ -61,3 +61,8 @@ We would like to express our gratitude to Professor **Kenytt Avery** for his gui
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
+
+
+## Documentation
+
+[https://docs.google.com/document/d/1qROW5fL9mk_SmAy9uKkWiNXwdjxe-0aZAWJUesqZO-k/edit#heading=h.sf1rjk24v8by](https://docs.google.com/document/d/1qROW5fL9mk_SmAy9uKkWiNXwdjxe-0aZAWJUesqZO-k/edit#heading=h.sf1rjk24v8by)
